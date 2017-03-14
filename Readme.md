@@ -18,8 +18,8 @@ Building Concourse in Yahoo!Japan (Kei Kitai, Yahoo Japan)
  * SlideShare TBD
 
 
- Build an iOS app with ConcourseCI (Akehito Amanuma, TIS)
-  * SlideShare https://www.slideshare.net/TakehitoAmanuma/build-an-ios-app-with-concourseci
+Build an iOS app with ConcourseCI (Akehito Amanuma, TIS)
+ * SlideShare https://www.slideshare.net/TakehitoAmanuma/build-an-ios-app-with-concourseci
 
 
 #Picture
