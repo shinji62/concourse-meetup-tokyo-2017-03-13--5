@@ -9,7 +9,7 @@ Use database in your Concourse Pipeline (Etourneau Gwenn, Pivotal Japan)
 
 
 From legacy to modern CI/CD in TIS with Concourse (Kazuya Ishida, TIS)    
- * Slideshare TBD
+ * Slideshare https://www.slideshare.net/isshan/from-legacy-to-modern-cicd-in-tis-with-concourse-73121347
 
 Lesson learned using Concourse in Production (ChatWork, Shingo Omura)
  * SlideShare   https://www.slideshare.net/ShingoOmura/lessons-learned-using-concourse-in-production
