@@ -15,7 +15,7 @@ Lesson learned using Concourse in Production (ChatWork, Shingo Omura)
  * SlideShare   https://www.slideshare.net/ShingoOmura/lessons-learned-using-concourse-in-production
 
 Building Concourse in Yahoo!Japan (Kei Kitai, Yahoo Japan)
- * SlideShare TBD
+ * SlideShare https://speakerdeck.com/fmy/concourse-in-yahoo-japan
 
 
 Build an iOS app with ConcourseCI (Akehito Amanuma, TIS)
